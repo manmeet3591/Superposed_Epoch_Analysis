@@ -1,0 +1,4 @@
+#couple_events = np.array([1108, 1171, 1230, 1345, 1601, 1641, 1783, 1809, 1815]) 
+#couple_events = np.array([1258, 1458, 1695]) 
+couple_events = np.array([939,1286])
+
